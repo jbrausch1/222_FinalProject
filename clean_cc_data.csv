@@ -1,0 +1,270 @@
+Date,Description,Amount,Category
+8/28/19,Lime Scooters,1.5,Travel/ Entertainment
+8/28/19,Safeway,11.97,Supermarkets
+8/29/19,Nike,43.56,Merchandise
+8/31/19,Target,34.85,Supermarkets
+8/31/19,Target,71.72,Supermarkets
+9/1/19,Subway,5.38,Restaurants
+9/6/19,Target,6.47,Supermarkets
+9/8/19,Chipotle,6.64,Restaurants
+9/9/19,FanShield,3.99,Services
+9/9/19,Ticket Master,41,Travel/ Entertainment
+9/13/19,Vending Machine,2,Restaurants
+9/23/19,Subway,5.38,Restaurants
+9/28/19,Safeway,8.48,Supermarkets
+9/28/19,Target,25.39,Supermarkets
+9/28/19,Wadells,22.39,Restaurants
+10/1/19,DoorDash,20.64,Restaurants
+10/2/19,Goodwill,21.77,Merchandise
+10/3/19,Amazon,106.54,Merchandise
+10/3/19,DoorDash,40.13,Restaurants
+10/5/19,Amazon,7.61,Merchandise
+10/5/19,Microsoft,9.99,Services
+10/5/19,Microsoft,9.99,Services
+10/5/19,Microsoft,59.99,Services
+10/5/19,Microsoft,59.99,Services
+10/5/19,Northtown Mall,24.37,Travel/ Entertainment
+10/6/19,Microsoft,9.99,Services
+10/7/19,Amazon,72.95,Merchandise
+10/7/19,Microsoft,19.99,Services
+10/10/19,Fanatics,53.87,Merchandise
+10/11/19,Microsoft,19.99,Services
+10/12/19,DoorDash,41.52,Restaurants
+10/17/19,Amazon,10.88,Merchandise
+10/17/19,Walmart,7.62,Merchandise
+10/21/19,Target,5.11,Supermarkets
+10/21/19,Target,40.31,Supermarkets
+10/22/19,DoorDash,15.52,Restaurants
+10/24/19,DoorDash,18.85,Restaurants
+10/24/19,Vending Machine,2,Restaurants
+10/25/19,DoorDash,16.52,Restaurants
+10/27/19,Vending Machine,2,Restaurants
+10/29/19,DoorDash,19.85,Restaurants
+10/30/19,DoorDash,16.52,Restaurants
+11/3/19,DoorDash,15.54,Restaurants
+11/7/19,DoorDash,16.39,Restaurants
+11/9/19,DoorDash,27.58,Restaurants
+11/10/19,PayPal,32.67,Services
+11/11/19,247 Sports,1,Merchandise
+11/11/19,DoorDash,19.76,Restaurants
+11/13/19,Golden Corral,19.91,Restaurants
+11/17/19,Big Ten Network,14.95,Merchandise
+11/18/19,DoorDash,18.31,Restaurants
+11/19/19,DoorDash,17.38,Restaurants
+11/20/19,Amazon,16.28,Merchandise
+11/21/19,Chegg,14.95,Merchandise
+11/21/19,DoorDash,20.54,Restaurants
+11/23/19,Microsoft,1,Services
+11/23/19,Microsoft,1.99,Services
+11/27/19,The Everything Store,1.71,Merchandise
+11/27/19,McDonalds,22.08,Restaurants
+11/27/19,Walmart,25.06,Merchandise
+12/1/19,DoorDash,17.81,Restaurants
+12/1/19,United Airlines,2.99,Travel/ Entertainment
+12/3/19,DoorDash,9.99,Restaurants
+12/5/19,DoorDash,20.67,Restaurants
+12/8/19,Riot Games,38.12,Merchandise
+12/9/19,Postmates  ,19.25,Restaurants
+12/12/19,DoorDash,20.06,Restaurants
+12/13/19,Steam,39.99,Merchandise
+12/17/19,Steam,5,Merchandise
+12/17/19,Steam,43.97,Merchandise
+12/18/19,Steam,5,Merchandise
+12/18/19,Steam,5,Merchandise
+12/18/19,Steam,39.2,Merchandise
+12/21/19,Chegg,14.95,Merchandise
+12/27/19,Steam,0.85,Merchandise
+12/27/19,GoFundMe,7.5,Services
+12/27/19,GoFundMe,75,Services
+12/28/19,Steam,10,Merchandise
+1/2/20,Amazon,43.58,Merchandise
+1/3/20,PayPal,11.59,Merchandise
+1/5/20,Steam,7.57,Merchandise
+1/5/20,Riot Games,5.22,Merchandise
+1/12/20,DoorDash,31.87,Restaurants
+1/13/20,Best Buy,27.21,Merchandise
+1/13/20,Postmates  ,20.73,Restaurants
+1/13/20,Northtown Mall,11.54,Travel/ Entertainment
+1/17/20,Riot Games,21.78,Merchandise
+1/18/20,Subway,3.8,Restaurants
+1/19/20,Amazon,4.24,Merchandise
+1/19/20,DoorDash,22.79,Restaurants
+1/20/20,Nike,56.57,Merchandise
+1/21/20,Amazon,57.05,Merchandise
+1/21/20,Chegg,4.95,Merchandise
+1/22/20,Amazon,4.24,Merchandise
+1/22/20,Safeway,63.73,Supermarkets
+1/23/20,Amazon,25.04,Merchandise
+1/23/20,Subway,5.48,Restaurants
+1/27/20,Amazon,40.28,Merchandise
+1/27/20,Safeway,20.91,Supermarkets
+1/29/20,Chipotle,8.98,Restaurants
+1/30/20,Amazon,11.31,Merchandise
+1/31/20,Dutch Bros,6.4,Restaurants
+1/31/20,Zips Drive In,8.17,Restaurants
+2/2/20,Amazon,11.31,Merchandise
+2/2/20,McDonalds,7.17,Restaurants
+2/2/20,Wingstop ,113.04,Restaurants
+2/3/20,Safeway,32.77,Supermarkets
+2/6/20,Safeway,26.69,Supermarkets
+2/7/20,Northtown Mall,11.54,Travel/ Entertainment
+2/8/20,Amazon,7.98,Merchandise
+2/8/20,Dennys,7.43,Restaurants
+2/8/20,Dennys,20.52,Restaurants
+2/9/20,Dicks Sporting Goods,4.28,Merchandise
+2/15/20,DoorDash,19.25,Restaurants
+2/16/20,Postmates  ,20.73,Restaurants
+2/21/20,Chegg,14.95,Merchandise
+2/21/20,DHGate,38.25,Merchandise
+2/21/20,Subway,9.01,Restaurants
+2/22/20,5 Guys,15.59,Restaurants
+2/22/20,DoorDash,18.51,Restaurants
+2/22/20,Target,20.46,Supermarkets
+2/25/20,Riot Games,10.89,Merchandise
+3/5/20,Riot Games,10.89,Merchandise
+3/6/20,Olive Garden,16.96,Restaurants
+3/6/20,Riot Games,21.78,Merchandise
+3/11/20,Riot Games,10.88,Travel/ Entertainment
+3/15/20,Steam,5,Merchandise
+3/18/20,Amazon,33.52,Merchandise
+3/19/20,Riot Games,21.78,Merchandise
+3/20/20,Amazon,19.51,Merchandise
+3/21/20,Chegg,14.95,Merchandise
+3/26/20,PayPal,59.99,Merchandise
+3/28/20,PayPal,9.99,Travel/ Entertainment
+3/29/20,PayPal,19.99,Travel/ Entertainment
+3/31/20,PayPal,7.99,Merchandise
+4/1/20,Riot Games,10.89,Merchandise
+4/3/20,PayPal,4.99,Travel/ Entertainment
+4/4/20,PayPal,9.99,Travel/ Entertainment
+4/12/20,Steam,18.51,Merchandise
+4/13/20,Steam,0.99,Merchandise
+4/14/20,Steam,5,Merchandise
+4/21/20,Chegg,14.95,Merchandise
+4/24/20,Riot Games,10.89,Merchandise
+5/2/20,Riot Games,10.89,Merchandise
+5/12/20,PayPal,9.99,Travel/ Entertainment
+5/17/20,PayPal,26.11,Merchandise
+5/22/20,Steam,17.48,Merchandise
+5/22/20,PayPal,12.5,Merchandise
+5/23/20,PayPal,12.5,Merchandise
+5/26/20,Steam,4.99,Merchandise
+5/28/20,PayPal,46.81,Merchandise
+5/29/20,PayPal,17.09,Merchandise
+5/29/20,PayPal,28.27,Merchandise
+6/11/20,Riot Games,21.78,Merchandise
+6/16/20,Riot Games,10.89,Merchandise
+6/19/20,PayPal,54.45,Merchandise
+6/23/20,Vending Machine,1.6,Restaurants
+6/24/20,Vending Machine,1.6,Restaurants
+6/25/20,Vending Machine,1.6,Restaurants
+6/29/20,PayPal,25.06,Merchandise
+6/30/20,PayPal,18.95,Merchandise
+7/1/20,Vending Machine,3.2,Restaurants
+7/2/20,Patagonia,38.12,Merchandise
+7/2/20,Vending Machine,3.2,Restaurants
+7/3/20,Vending Machine,3.2,Restaurants
+7/6/20,Vending Machine,2.35,Restaurants
+7/7/20,Steam,11.24,Merchandise
+7/8/20,PayPal,271.16,Merchandise
+7/8/20,Riot Games,21.77,Merchandise
+7/8/20,Vending Machine,2.35,Restaurants
+7/9/20,Amazon,15.24,Merchandise
+7/9/20,Loaf N Jug  ,10.09,Gasoline
+7/9/20,Taco Bell,7.48,Restaurants
+7/9/20,Vending Machine,2.35,Restaurants
+7/10/20,Vending Machine,3.2,Restaurants
+7/12/20,Amazon,67.03,Merchandise
+7/14/20,PayPal,40.13,Merchandise
+7/18/20,City Market,2.17,Supermarkets
+7/21/20,Vending Machine,2.35,Restaurants
+7/22/20,Vending Machine,2.35,Restaurants
+7/23/20,City Market,18.99,Supermarkets
+7/23/20,Vending Machine,2.35,Restaurants
+7/24/20,Loaf N Jug  ,2.71,Gasoline
+7/24/20,Wendys,4.45,Restaurants
+7/27/20,Patagonia,59.9,Merchandise
+7/28/20,Sinclair,3.59,Gasoline
+7/29/20,Amazon,14.15,Merchandise
+7/31/20,Vending Machine,3.2,Restaurants
+8/1/20,Riot Games,5.45,Travel/ Entertainment
+8/3/20,Vending Machine,2.35,Restaurants
+8/4/20,Vending Machine,2.35,Restaurants
+8/5/20,Qdoba,25.8,Restaurants
+8/7/20,Sundae Ice Cream,17.34,Restaurants
+8/8/20,Sundae Ice Cream,7.27,Restaurants
+8/9/20,Moes BBQ,14.71,Restaurants
+8/9/20,Qdoba,13.28,Restaurants
+8/10/20,City Market,18.86,Supermarkets
+8/10/20,Red Bull Shop,80.79,Merchandise
+8/11/20,Stop N Save,10.23,Gasoline
+8/11/20,Sundae Ice Cream,11.8,Restaurants
+8/14/20,Lulu Lemon,169.1,Merchandise
+8/14/20,Steam,10.1,Merchandise
+8/14/20,Sundae Ice Cream,5.69,Restaurants
+8/15/20,Riot Games,10.89,Travel/ Entertainment
+8/17/20,Sundae Ice Cream,4.69,Restaurants
+8/18/20,Steam,4.99,Merchandise
+8/19/20,Riot Games,10.89,Travel/ Entertainment
+8/21/20,Craftsman  ,19.74,Restaurants
+8/21/20,Riot Games,10.89,Travel/ Entertainment
+8/21/20,Sundae Ice Cream,7.27,Restaurants
+8/22/20,Daylight Donuts,13.39,Restaurants
+8/23/20,Sundae Ice Cream,5.69,Restaurants
+8/24/20,Craftsman  ,17.28,Restaurants
+8/24/20,Sundae Ice Cream,7.27,Restaurants
+8/25/20,Sundae Ice Cream,2,Restaurants
+8/28/20,Sundae Ice Cream,7.27,Restaurants
+8/28/20,Sundae Ice Cream,8.51,Restaurants
+8/29/20,PayPal,18.94,Merchandise
+8/30/20,5 Guys,11.98,Restaurants
+8/30/20,Fred Meyers,62.03,Supermarkets
+8/30/20,Olive Garden,25.84,Restaurants
+8/30/20,Gonzaga,28.31,Merchandise
+8/31/20,Amazon,155.71,Merchandise
+8/31/20,Amazon,8.24,Merchandise
+8/31/20,Microsoft,59.99,Services
+8/31/20,Gonzaga,21.78,Merchandise
+9/1/20,Amazon,13.86,Merchandise
+9/1/20,Subway,5.48,Restaurants
+9/4/20,Amazon,29.94,Merchandise
+9/4/20,Microsoft,24.99,Services
+9/4/20,Target,14.2,Supermarkets
+9/4/20,Gonzaga,13.48,Merchandise
+9/5/20,ZyBooks,29,Services
+9/6/20,Ship Sticks,74.98,Services
+9/7/20,Bonefish Grill,35.93,Restaurants
+9/7/20,Gonzaga,5.44,Education
+9/8/20,PayPal,85,Merchandise
+9/11/20,Maverik,4.21,Gasoline
+9/11/20,Wingstop ,68.65,Restaurants
+9/15/20,Amazon,17.11,Merchandise
+9/15/20,Amazon,14.15,Merchandise
+9/16/20,Gonzaga,2.18,Education
+9/16/20,Riot Games,10.89,Travel/ Entertainment
+9/16/20,Safeway,19.97,Supermarkets
+9/17/20,Masterclass,1,Education
+9/17/20,Riot Games,5.45,Travel/ Entertainment
+9/18/20,Esmeralda Golf Course,12,Travel/ Entertainment
+9/20/20,Amazon,126.31,Merchandise
+9/20/20,DoorDash,18.36,Restaurants
+9/21/20,Chipotle,11.33,Restaurants
+9/21/20,Esmeralda Golf Course,20,Travel/ Entertainment
+9/22/20,Dutch Bros,12.42,Restaurants
+9/24/20,Safeway,5.86,Supermarkets
+9/28/20,Esmeralda Golf Course,20,Travel/ Entertainment
+10/4/20,Safeway,28.45,Supermarkets
+10/5/20,Esmeralda Golf Course,20,Travel/ Entertainment
+10/12/20,Amazon,6.52,Merchandise
+10/12/20,Esmeralda Golf Course,20,Travel/ Entertainment
+10/14/20,Safeway,5,Supermarkets
+10/15/20,PayPal,18.62,Merchandise
+10/20/20,Patagonia,25.74,Merchandise
+10/26/20,Dutch Bros,6.4,Restaurants
+10/31/20,Amazon,20.24,Merchandise
+10/31/20,Riot Games,5.45,Travel/ Entertainment
+11/8/20,Safeway,52.78,Supermarkets
+11/9/20,Amazon,13.34,Merchandise
+11/16/20,DoorDash,23.63,Restaurants
+11/17/20,Amazon,10.33,Merchandise
+11/17/20,Patagonia,74.07,Merchandise
