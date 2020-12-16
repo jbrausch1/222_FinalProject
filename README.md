@@ -9,4 +9,6 @@ This project is organized into one main jupyter notebook file, a utility file an
 ## How To Run
 In order to run this project correctly all files in the repository need to be present in the same folder the jupyter notebook is being run from. As long as the notebook is being run from a file also containing the utils.py file and .csv files it will run as intended.
 
+## Contact 
 
+Any other questions or concerns about this project can be addressed by contacting me at: jbrausch@zagmail.gonzaga.edu
